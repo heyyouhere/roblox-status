@@ -11,4 +11,4 @@ python3 main.py
 ```
 
 ## mytelegrambot.py
-I'm testing my own super simple (yet another) telegram bot api library. Feedback is welcome. 
+I'm testing my own super simple (yet another) telegram bot api library. Feedback is welcomed. 
